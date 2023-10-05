@@ -1,0 +1,80 @@
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color to the body */
+body {
+    background-color: rgb(91, 107, 201);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color:black (233, 147, 214);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Style the navigation menu */
+nav ul {
+    list-style-type: disc;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: wavy;
+    color: #7c16cf;
+    font-weight: bold;
+}
+
+/* Style the main content */
+main {
+    max-width: 800px;
+    margin: 70 auto;
+    padding: 20px;
+}
+
+/* Style sections */
+section {
+    margin-bottom: 40px;
+}
+
+/* Style section headings */
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+/* Style the portfolio items */
+.portfolio-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.portfolio-item img {
+    border: 2px solid #333;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    background-color: #3f3535;
+    color: #f7f1f1;
+    padding: 10px 0;
+}
+body {
+    font-family: "DM sans", sans-serif;
+}
+body {
+    background: linear-gradient(to bottom, pink, #db3c51);
+}
+
+
